@@ -23,7 +23,7 @@ setup(
     description="Pacote Python para processamento e análise de imagens usando scikit-image.",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/SEU_USUARIO/pacote-processamento-imagem",
+    url="https://github.com/dio-enock/trilha-python-dio/tree/main/Projetos/pacote-processamento-imagem",
     package_dir={"": "src"},
     packages=find_packages(where="src"),
     install_requires=requirements,
